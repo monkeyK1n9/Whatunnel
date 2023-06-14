@@ -1,0 +1,20 @@
+{
+  "name": "whatunnel",
+  "version": "1.0.0",
+  "description": "Drain whatsapp contacts you have from all groups",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "keywords": [
+    "Scraper",
+    "NodeJS"
+  ],
+  "type": "module",
+  "author": "monkey_K1n9",
+  "license": "MIT",
+  "dependencies": {
+    "xlsx": "^0.18.5"
+  }
+}

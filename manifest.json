@@ -1,0 +1,17 @@
+{
+    "name": "Whatunnel",
+    "description": "Drain whatsapp contacts you have from all groups",
+    "version": "1.0.0",
+    "manifest_version": 3,
+    "action": {
+        "default_popup": "./src/defaultPopup.html",
+        "default_icon": "./assets/whatunnel_logo.jpg",
+        "default_title": "Generate"
+    },
+    "permissions": [
+        "scripting",
+        "activeTab",
+        "tabs"
+    ],
+    "author": "Whatunnel"
+}
