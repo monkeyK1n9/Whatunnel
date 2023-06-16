@@ -10,8 +10,7 @@
     },
     "permissions": [
         "scripting",
-        "activeTab",
-        "tabs"
+        "activeTab"
     ],
     "author": "Whatunnel"
 }
